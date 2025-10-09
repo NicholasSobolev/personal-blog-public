@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+exampleSite/.hugo_build.lock
+exampleSite/public
+.nvmrc
+node_modules/
+.env
