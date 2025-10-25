@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "[Youtube](https://www.youtube.com/@NicholasSobolev) | [Github](https://github.com/NicholasSobolev) | [Goodreads](https://www.goodreads.com/user/show/184380132-nicholas-sobolev)"
+  footer: "[Youtube](https://www.youtube.com/@NicholasSobolev) | [Github](https://github.com/NicholasSobolev) | [Linkedln](https://www.linkedin.com/in/nicholassobolev/) | [Twitter (X)](https://x.com/nicholassbv) | [Goodreads](https://www.goodreads.com/user/show/184380132-nicholas-sobolev)"
 
 markup:
   highlight:
